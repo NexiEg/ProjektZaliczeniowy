@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">ProjektZaliczeniowy2</string>
+    <string name="navigation_drawer_open">Otworz</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="login">Login/Register</string>
+    <string name="login_hint">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+
+    <string name="twoje_zakupu">Twoje zakupu:</string>
+    <string name="odswiez_zamowienia">ODDWIEZ ZAMOWIENIA</string>
+    <string name="usun_zamowienia">USUN ZAMOWIENIA</string>
+
+    <string name="twoje_zamowienie">Twoje Zamowienie</string>
+    <string name="share">share</string>
+    <string name="dziekujemy_za_zakup">DZIEKUJEMY ZA ZAKUPY!</string>
+
+    <string name="ilosc">ILOSC:</string>
+    <string name="DODATKI">DODATKI</string>
+    <string name="imie">Imie i Nazwisko</string>
+    <string name="numer_telefonu">Numer Telefonu</string>
+    <string name="myszki">Myszki</string>
+    <string name="klawiatury">Klawiatury</string>
+    <string name="podsumowanie">PODSUMOWANIE</string>
+    <string name="koszt">0 zl</string>
+    <string name="kup">KUP</string>
+
+    <string name="zestaw">Zestaw</string>
+
+    <string name="Menu">Menu</string>
+
+    <string name="Title">Title</string>
+
+    <string name="Dziękujemy">Dziękujemy!</string>
+
+    <string name="IloscZamowien">Ilosc zamowien: </string>
+
+    <string name="Podaj_wymagane_dane">Podaj wymagane dane!</string>
+
+    <string name="Witaj">Witaj </string>
+
+    <string name="Dziekujemy_za_zakup">Dziekujemy za zakup: </string>
+
+    <string name="Wybierz_coś">Wybierz coś!</string>
+
+    <string name="Nie_masz_uprawnień">Nie masz uprawnień!</string>
+
+    <string name="Zalogowano">Zalogowano!</string>
+
+    <string name="Niepoprawne_dane">Niepoprawne dane!</string>
+
+    <string name="Zarejestrowano">Zarejestrowano!</string>
+
+    <string name="Uzytkownik_juz_istnieje">Uzytkownik juz istnieje!</string>
+
+    <string name="Wypełnij_wszystkie_pola">Wypełnij wszystkie pola!</string>
+
+    <string name="Brak_zakupionych_rzeczy">Brak zakupionych rzeczy!</string>
+
+    <string name="Wybrano">Wybrano: </string>
+
+    <string name="Autor">Autor: Natan Grajczyk</string>
+
+    <string name="Oautorze">O autorze</string>
+</resources>

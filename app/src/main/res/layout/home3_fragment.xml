@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="25sp"
+        android:text="@string/twoje_zakupu"
+        android:textColor="#808080"
+        android:textStyle="bold" />
+
+    <ListView
+        android:layout_above="@+id/przycisk_pokaz_zamowienia"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/home"
+        android:id="@+id/zakupioneRzeczy"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/odswiez_zamowienia"
+        android:id="@+id/przycisk_pokaz_zamowienia"
+        android:layout_above="@+id/usun_z_koszyka"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/usun_zamowienia"
+        android:id="@+id/usun_z_koszyka"
+        android:layout_alignParentBottom="true" />
+
+
+
+</RelativeLayout>

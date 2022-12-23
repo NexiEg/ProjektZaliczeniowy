@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/item2"
+            android:title="Zaloguj się"
+            android:icon="@drawable/ic_android_black_24dp">
+        </item>
+        <item android:id="@+id/item1"
+            android:title="Kup teraz"
+            android:icon="@drawable/ic_android_black_24dp">
+        </item>
+        <item android:id="@+id/item3"
+            android:title="Przegladaj zamowienia"
+            android:icon="@drawable/ic_android_black_24dp">
+        </item>
+        <item android:id="@+id/item4"
+            android:title="Ostatnio ogladane zamowienie"
+            android:icon="@drawable/ic_android_black_24dp">
+        </item>
+    </group>
+    <item android:title="Inne">
+        <menu>
+            <item android:id="@+id/autor"
+                android:title="O autorze"
+                android:icon="@drawable/ic_android_black_24dp">
+            </item>
+            <item android:id="@+id/wyloguj"
+                android:title="LOG OUT"
+                android:checkable="true"
+                android:icon="@drawable/ic_android_black_24dp">
+            </item>
+<!--            <item android:icon="@drawable/ic_android_black_24dp"-->
+<!--                android:id="@+id/item5"-->
+<!--                android:title="Home5"/>-->
+<!--            <item android:icon="@drawable/ic_android_black_24dp"-->
+<!--                android:id="@+id/item6"-->
+<!--                android:title="Home 6"/>-->
+<!--            <item android:icon="@drawable/ic_android_black_24dp"-->
+<!--                android:id="@+id/item7"-->
+<!--                android:title="Home 7"/>-->
+        </menu>
+    </item>
+
+
+</menu>

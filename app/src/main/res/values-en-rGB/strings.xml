@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjektZaliczeniowy2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="login">Login/Register</string>
+    <string name="login_hint">Login</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+
+    <string name="twoje_zakupu">Your purchases:</string>
+    <string name="odswiez_zamowienia">REFRESH</string>
+    <string name="usun_zamowienia">REMOVE ALL PURCHASES</string>
+
+    <string name="twoje_zamowienie">Your order</string>
+    <string name="share">share</string>
+    <string name="dziekujemy_za_zakup">THANK YOU FOR YOUR PURCHASE!</string>
+
+    <string name="ilosc">QUANTITY:</string>
+    <string name="DODATKI">ADDITIONS</string>
+    <string name="imie">Name and Surname</string>
+    <string name="numer_telefonu">Phone Number</string>
+    <string name="myszki">Mice</string>
+    <string name="klawiatury">Keyboards</string>
+    <string name="podsumowanie">SUMMARY</string>
+    <string name="koszt">0 zl</string>
+    <string name="kup">BUY</string>
+
+    <string name="zestaw">Set</string>
+
+    <string name="Menu">Menu</string>
+
+    <string name="Title">Title</string>
+
+    <string name="Brak_zakupionych_rzeczy">You have not purchased anything yet</string>
+
+    <string name="Dziękujemy">Thank you for your purchase!</string>
+
+    <string name="IloscZamowien">Number of orders: </string>
+
+    <string name="Podaj_wymagane_dane">Please enter the required data</string>
+
+    <string name="Witaj">Welcome </string>
+
+    <string name="Dziekujemy_za_zakup">Thank you for your purchase: </string>
+
+    <string name="Wybierz_coś">Choose something</string>
+
+    <string name="Nie_masz_uprawnień">You do not have permission to access this page</string>
+
+    <string name="Zalogowano">You are logged in</string>
+
+    <string name="Niepoprawne_dane">Incorrect data</string>
+
+    <string name="Zarejestrowano">You have been registered</string>
+
+    <string name="Uzytkownik_juz_istnieje">User already exists</string>
+
+    <string name="Wypełnij_wszystkie_pola">Fill in all fields</string>
+
+    <string name="Wybrano">Selected: </string>
+
+    <string name="Autor">Author: </string>
+
+    <string name="Oautorze">About the author</string>
+
+</resources>
